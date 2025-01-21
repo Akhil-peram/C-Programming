@@ -71,7 +71,7 @@ To do math in C we use int , float data types
  * Division (/)
  * floor Division(//)
 
- *Calculations in c *
+ *Calculations in c*
 
         #include<stdio.h> 
         int main(){
