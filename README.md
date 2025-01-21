@@ -3,7 +3,7 @@
 
 ### Variables
 ### Data Types
-### Conditional statements
+### Conditional Statements
 ### Files and Exceptions
 ### Structures and Unions
 
@@ -118,6 +118,8 @@ The operators for manipulating data in C divided into
 * string = "I am Ironman";
 
 A variable can be anything that can store the values of specified format 
+
+# Control Statements
 
 ## Control flow
 
