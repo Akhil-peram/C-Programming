@@ -1,8 +1,14 @@
 # C Programming 
 
 
+### Variables
+### Data Types
+### Conditional statements
+### Files and Exceptions
+### Structures and Unions
 
-Programs for C Language 
+
+A Simple Hello world program in C Language 
 
           #include<stdio.h>
            int main()
@@ -12,7 +18,7 @@ Programs for C Language
            }
 
 
-
+C language was developed by Dennis Ritchie
 Include function includes the header file which is <stdio.h>
 Stdio stands for standard Input and Output  ( .h ) represents the header file
 
