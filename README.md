@@ -74,13 +74,21 @@ To do math in C we use int , float data types
  *Calculations in c*
 
         #include<stdio.h> 
-        int main(){
+        
+        int main()
+        {
           int a=3,b=2;
+          
           printf("sum = %d",a+b);
+          
           printf("Subtraction = %d",a-b);
+          
           print("Multiple = %d",a*b);
+          
           float x= 36.14;
+          
           float y= 6.2;
+          
            printf("division =%f",x/y);
 
            return 0;
