@@ -46,20 +46,20 @@ To access the address of the input C uses ampersand (&) to store the address.
 
 FORMAT SPECIFIERS 
 
-•To access the address of the given data and to write the data into variables C uses these format specifiers for assigning address 
-For int %d or %i
+• To access the address of the given data and to write the data into variables C uses these format specifiers for assigning address 
+ For int %d or %i
     Float %f
     String %s
     Char %C
 
 Program 
 
-          #include<stdio.h>
-           int main(){
-            int a =1;
+          #include<stdio.h>   // Header file
+           int main(){       // main function
+            int a =1;       // declaring variables and initializing values
             float b=2;
             char c='a';
-           printf(" %d\n%f\n%c",a,b,c);
+           printf(" %d\n%f\n%c",a,b,c);  // printing the variables
            }
 
 **Manipulation of data types** 
@@ -73,7 +73,7 @@ To do math in C we use int , float data types
 
 program 
 
-        #include<stdio.h>
+        #include<stdio.h> 
         int main(){
           int a=3,b=2;
           printf("sum = %d",a+b);
