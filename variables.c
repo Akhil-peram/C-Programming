@@ -1,9 +1,11 @@
 #include<stdio.h>
 int main(){
-int a=10;
-char string[10]="Code";
-float speed = 369.1037534;
-double quarks = 2804.974648778382947892478924998;
+
+// Data types in c 
+int a=10; // integer
+char string[10]="Code"; // string
+float speed = 369.1037534; // floating point numbers
+double quarks = 2804.974648778382947892478924998; // double 
 
 printf("\nvalue of a is %d",a);
 printf("\nvalue of string is %s",string);
