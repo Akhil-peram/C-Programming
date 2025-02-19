@@ -108,7 +108,18 @@ To do math in C we use int , float data types
 # Operators
 
 The operators for manipulating data in C divided into 
-* Arithmetic operators 
+* Arithmetic operators
+
+            #include<stdio.h>
+              int main(){
+               int a = 10, int b=90;
+                printf("Sum of a +b  is  %d",a+b);
+               return 0;
+                 }
+
+
+
+
 * Conditional operators
 * Logical operators
 * Bitwise operators 
