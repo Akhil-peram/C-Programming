@@ -111,10 +111,14 @@ The operators for manipulating data in C divided into
 * Arithmetic operators
 
             #include<stdio.h>
-              int main(){
-               int a = 10, int b=90;
-                printf("Sum of a +b  is  %d",a+b);
-               return 0;
+  
+            int main(){
+  
+            int a = 10,  b=90;
+  
+            printf("Sum of a +b  is  %d",a+b);
+  
+            return 0;
                  }
 
 
