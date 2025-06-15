@@ -1,6 +1,12 @@
-# C Programming 
+#                                                             C Programming 
+--------------------------------------------
 
-* Basic c programming 
+* Basic c programming
+* ### Variables
+* ### Data Types
+* ### Conditional Statements
+* ### Files and Exceptions
+* ### Structures and Unions
 
 A Simple Hello world program in C Language 
 
