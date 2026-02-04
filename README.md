@@ -1,7 +1,6 @@
 #                                                             C Programming 
 --------------------------------------------
-
-* Basic c programming
+## Basic c programming
 * ### Variables
 * ### Data Types
 * ### Conditional Statements
