@@ -33,8 +33,11 @@ printf is used to display the output of the given data in C
 
 
           #include<stdio.h>
+          
            int main(){
+           
             int a=3,b=6;
+            
             int x=a+b;
             printf("sum = %d",x);
             }
@@ -49,10 +52,14 @@ FORMAT SPECIFIERS
  Program 
 
           #include<stdio.h>   // Header file
-           int main(){       // main function
-            int a =1;       // declaring variables and initializing values
+           int main(){
+                                     // main function
+            int a =1;
+                                       // declaring variables and initializing values
             float b=2;
+  
             char c='a';
+  
            printf(" %d\n%f\n%c",a,b,c);  // printing the variables
            }
 
@@ -106,11 +113,17 @@ To do math in C we use int , float data types
 
      
             #include<stdio.h>
+  
               int main(){
+  
              printf("Enter two numbers ");
-            int a , b,c; //declaring variables 
+  
+            int a , b,c; //declaring variables
+  
             scanf("%d %d",&a,&b);
+  
                c=a+b;
+  
             printf("\nsum of numbers is %d",c);
             }
 # Operators
