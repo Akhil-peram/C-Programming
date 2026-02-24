@@ -20,9 +20,9 @@ A Simple Hello world program in C Language
 
 
 
-C language was developed by Dennis Ritchie
-Include function includes the header file which is <stdio.h>
-Stdio stands for standard Input and Output  ( .h ) represents the header file
+- C language was developed by Dennis Ritchie
+- Include function includes the header file which is <stdio.h>
+- Stdio stands for standard Input and Output  ( .h ) represents the header file
 
 
 
@@ -39,8 +39,10 @@ printf is used to display the output of the given data in C
             printf("sum = %d",x);
             }
 
-Scanf is used to take input from the user 
-To access the address of the input C uses ampersand (&) to store the address.
+
+
+- scanf is used to take input from the user 
+- To access the address of the input C uses ampersand (&) to store the address.
 
 FORMAT SPECIFIERS 
 
