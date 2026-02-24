@@ -155,6 +155,8 @@ A variable can be anything that can store the values of specified format
 * do while loop
 
 
-### structs and typedef
+### Arrays
+* static array
+* Dynamic array
 
 
